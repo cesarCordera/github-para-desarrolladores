@@ -1,2 +1,2 @@
 alert( 'Hola mundo again' );
-console.log('Nueva línea');
+console.log('Cambiado console log');
